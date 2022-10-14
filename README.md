@@ -7,5 +7,7 @@
 もし、利用した時には教えてくれると嬉しいです。
 また、こんな表現で描いてみました！という学生さんがいれば、ぜひご連絡いただければと思います。
 
+こちらは、Design for Localというシビックテック・ラボの活動の中で生まれたプロジェクトです。
+
 ## サービスデザイン実践ガイドブック（β版） 内閣官房 情報通信技術（ＩＴ）総合戦略室
 * https://cio.go.jp/sites/default/files/uploads/documents/guidebook_servicedesign.pdf
